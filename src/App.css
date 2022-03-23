@@ -1,0 +1,32 @@
+.header {
+  text-align: center;
+}
+
+.custom-btn-toolbar {
+  display: inline !important;
+}
+
+.custom-btn-toolbar > .btn {
+  margin-right: 1rem;
+}
+
+#header {
+  height: 300px;
+  width: 100%;
+  background-image: url("./vertafore-rocket.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#footer {
+  height: 120px;
+  background-color: #f8f6f6;
+}
+
+.foot-last {
+  padding-left: 1186px;
+  padding-top: 85px;
+  font-size: 12px;
+  color: #5c5758;
+  font-weight: normal;
+}
